@@ -10,7 +10,7 @@ public class GameflowP2 {
     Scanner scanner = new Scanner(System.in);
     Random random = new Random();
     String chars = "AFT";
-    String lol = "lol";
+
     terning.roll();
     System.out.println("COMPUTERS TUR: ");
     char input = chars.charAt(random.nextInt(chars.length()));

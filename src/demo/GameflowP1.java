@@ -142,7 +142,6 @@ public class GameflowP1 {
           break;
       }
       System.out.println("Ekstra firepower ved tilbagetrækning! Du har nu : "+Træk.firepower1+"     (maks 2500)");
-      System.out.println("lol");
     }
 
   }
